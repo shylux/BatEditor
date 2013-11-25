@@ -3,6 +3,7 @@ $(function() {
   CodeMirror.fromTextArea(test, {
     lineNumbers: true,
     matchBrackets: true,
-    mode: "text/x-java"
+    mode: "text/x-java",
+	theme: "ambiance"
   });
 });

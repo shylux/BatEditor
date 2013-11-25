@@ -10,7 +10,7 @@
       "matches": [
         "*://*.codingbat.com/prob/*"
       ],
-      "js": ["lib/jquery-1.10.2.min.js", "lib/codemirror.js", "lib/matchbrackets.js", "lib/clike.js", "main.js"],
+      "js": ["lib/jquery-1.10.2.min.js", "lib/codemirror.js", "lib/matchbrackets.js", "lib/clike.js", "lib/ambiance.css", "main.js"],
       "css": ["lib/codemirror.css"]
     }
   ]
