@@ -1,6 +1,6 @@
 {
   "name": "BatEditor",
-  "version": "0.1",
+  "version": "0.1.1",
   "manifest_version": 2,
 
   "description": "Replaces textfield for code in CodingBat with a the powerful CodeMirror editor",
